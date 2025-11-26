@@ -8,6 +8,7 @@ Encryption and Digital Signature
 3.Terdapat Halaman sign and encrypt yang berguna untuk mengunci file tersebut agar tidak dibuka oleh orang lain yang tidak berwenang.
 
 4.Terdapat Halaman Dekripsi dan Verifikasi yang berfungsi untuk membuka dan memverifikasi kepemilikan file tersebut.
+
 Ikuti langkah-langkah tersebut secara berurutan
 
 English
